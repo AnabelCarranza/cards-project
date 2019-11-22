@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+}
+.content {
+    font-family: 'Istok Web', sans-serif;
+    font-size: 15px;
+    color: black;
+    border-left: 5px solid #0A758F;
+    padding: 0 15px ;
+}
+.author {
+    font-family: 'Average Sans', sans-serif;
+    font-size: 15px;
+    color: black;
+
+}
+
+.box-one {
+    background-color: #3AA7A0;
+}
+
+.box-two {
+    background-color: #F34C50;
+}
+
+.box-three {
+    background-color: #F7C9C0;
+}
+
+.box-four {
+    background-color: #9FD9D0;
+}
+
+.box-five {
+    background-color: #F652A0;
+}
+
+.box-six {
+    background-color: #BCECE0;
+}
+
+.container-one {
+    background-color: #D4F1F4 ;
+}
+
+.container-two {
+    background-color: #EE8D85;
+}
+
+.container-three {
+    background-color: #F9F1F0 ;
+}
+
+.container-four {
+    background-color:#C4DBE0 ;
+}
+
+.container-five {
+    background-color: #F2C5E0;
+}
+
+.container-six {
+    background-color: #DBF5F0 ;
+}
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgb(0, 0, 0, 0.4 ) 
+}
+
+.section {
+    padding: 50px 0;
+}
+
+
+
+img {
+    width: 100%;
+}
+
+.container-quote {
+    padding: 30px;
+}
